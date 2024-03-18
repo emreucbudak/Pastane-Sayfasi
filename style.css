@@ -1,0 +1,31 @@
+a.navbar-brand img{
+    height: 10vh;
+    width: 10vw;
+    object-fit: contain;
+}
+section#harita {
+    width: 100vw;
+    height: 20vh;
+}
+#yorum {
+    text-align: center;
+    width: 100vw;
+    height: 30vh;
+}
+#sss {
+    text-align: center;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.card {
+    margin-left: 2vw;
+}
+section#footer {
+    text-align: center;
+    height: 10vh;
+    width: 100vw;
+    margin-top: 20vh;
+}
